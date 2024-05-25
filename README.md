@@ -1,7 +1,12 @@
 Mini Calendar
+
+
+
 This repository contains a simple mini calendar web application built using HTML, CSS, and JavaScript. The mini calendar displays the current month and allows users to navigate through different months.
 
 Features
+
+
 Display the current month and year
 Navigate to the previous and next months
 Highlight the current date
@@ -14,6 +19,8 @@ Prerequisites
 You will need a modern web browser (e.g., Chrome, Firefox, Safari) to view the mini calendar.
 
 1.Installation
+
+
 Clone the repository
 git clone https://github.com/your-username/mini-calendar.git
 
@@ -68,9 +75,7 @@ You will need a modern web browser (e.g., Chrome, Firefox, Safari) to view the m
 Installation
 Clone the repository
 
-sh
-Copy code
-git clone https://github.com/your-username/mini-calendar.git
+git clone https://github.com/jaiswalradha/mini-calendar.git
 Navigate to the project directory
 
 sh
